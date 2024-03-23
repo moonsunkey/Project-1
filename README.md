@@ -25,6 +25,8 @@ Files Included:
 HorceRacing_final.ipynb
 clean.csv
 Resources folder 
+Output folder
+Turkish Horse Racing Analysis presentation PDF
 README
 
 Instructions for Running the Analysis:
